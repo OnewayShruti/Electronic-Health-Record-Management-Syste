@@ -1,0 +1,30 @@
+.form-wrapper{
+    width: 60%;
+    margin: 3rem auto 0 auto;
+    padding: 4rem 0;
+    text-align: center;
+    border: 1px solid;
+}
+.form-wrapper2{
+    width: 60%;
+    margin: 3rem auto 0 auto;
+    padding: 4rem 0;
+    text-align: center;
+    border: 1px solid;
+}
+.input-box{
+    width: 95%;
+    outline: none;
+    font-size: 1rem;
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+.login-button{
+    text-align: center;
+    margin: 0.8rem auto;
+}
+
+.heading{
+    font-size: 2rem;
+}
